@@ -1,0 +1,36 @@
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\appsettings.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).staticwebassets.endpoints.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).exe
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).deps.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).runtimeconfig.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Nueva carpeta (2).pdb
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).csproj.AssemblyReference.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).AssemblyInfoInputs.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).AssemblyInfo.cs
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\scopedcss\bundle\Nueva carpeta (2).styles.css
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva ca.C6C3F94E.Up2Date
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\refint\Nueva carpeta (2).dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).pdb
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\Nueva carpeta (2).genruntimeconfig.cache
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\obj\Debug\net10.0\ref\Nueva carpeta (2).dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebastian\Desktop\Nueva carpeta (2)\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\Nueva carpeta (2).csproj",
-      "projectName": "Nueva carpeta (2)",
-      "projectPath": "C:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\Nueva carpeta (2).csproj",
+      "projectUniqueName": "c:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\ApiUsuarios.csproj",
+      "projectName": "ApiUsuarios",
+      "projectPath": "c:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\ApiUsuarios.csproj",
       "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\obj\\",
+      "outputPath": "c:\\Users\\sebastian\\Desktop\\ApiUsuarios.dll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",

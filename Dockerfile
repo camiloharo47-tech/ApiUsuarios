@@ -10,4 +10,4 @@ RUN dotnet publish -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "Nueva carpeta (2).dll"]
+ENTRYPOINT ["dotnet", "ApiUsuarios.dll"]
